@@ -5,3 +5,4 @@ Git is widely used tool.
 Git is fast.
 Git is source code.
 Git is not good one.
+Git is comprehensive tool.
